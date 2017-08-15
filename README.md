@@ -1,5 +1,7 @@
 # Simple-HTML-CSS-landing-page-with-a-fullscreen
-<li>create a simple HTML/CSS landing page with a fullscreen image in the background
+<li>create a simple HTML/CSS landing page with a fullscreen image in the background</li>
+
+
 ## screenshot
 
 ![nn](https://user-images.githubusercontent.com/12325386/29310144-39d4b9d4-81df-11e7-9f9e-acdccfb3bb64.JPG)
