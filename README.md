@@ -1,6 +1,6 @@
 # Simple-HTML-CSS-landing-page-with-a-fullscreen
 <li>create a simple HTML/CSS landing page with a fullscreen image in the background</li>
-also use a little bit of flexbox styling.
+also use a little bit of flexbox styling
 
 
 
